@@ -1,0 +1,2 @@
+# Weather-Scraper
+Scrapes weather data from the National Weather Service for the specified locations and formats it into an .csv file for easy viewing. Was created and is currently configured to retrieve data for climbing destinations. To change locations simply add or remove links to the NWS weather page for a given location. Running climbing_weather.py will create a .csv file on your system and write the weather data to that file. 
